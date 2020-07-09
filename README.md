@@ -23,4 +23,5 @@
 ---
 
 © 2020 Crafted by Irfan Maulana
+https://github.com/mazipan/auto-commit
 
