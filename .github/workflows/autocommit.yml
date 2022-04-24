@@ -27,6 +27,7 @@ jobs:
         run: |
           git config --local user.email "damarpramudito@ymail.com"
           git config --local user.name "damarpn"
+          git config --global --add safe.directory /github/workspace
           git add -A
           
           arr[0]="feat: 😂 auto commit"
